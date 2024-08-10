@@ -31,7 +31,7 @@ $gcs https://github.com/ltdrdata/ComfyUI-Manager.git
 $gcs https://github.com/cubiq/ComfyUI_essentials.git
 $gcs https://github.com/jags111/efficiency-nodes-comfyui.git
 $gcs https://github.com/kijai/ComfyUI-KJNodes.git
-ttps://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
+$gcs https://github.com/pythongosssss/ComfyUI-Custom-Scripts.git
 $gcs https://github.com/rgthree/rgthree-comfy.git
 $gcs https://github.com/shiimizu/ComfyUI_smZNodes.git
 $gcs https://github.com/Suzie1/ComfyUI_Comfyroll_CustomNodes.git
